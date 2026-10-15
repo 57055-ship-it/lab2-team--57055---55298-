@@ -1,3 +1,3 @@
 Project: DevOps Lab
-Updated by: Feature A
-Status: Development in progress
+Updated by: Feature A and Feature B
+Status: Ready for testing
